@@ -7,8 +7,8 @@ class factorialNum{
         Scanner obj = new Scanner(System.in);
         System.out.println("enter the number for which you want to print the factorial : ");
         int n = obj.nextInt();
-       // int n=8, fac=1; 
-                                                          //initialize the value
+       // int n=8, fac=1;                                 initilize the value
+                                                         
         for(int i=1;i<=n;i++){                                              //for loop 
             fac = fac *i;
 
