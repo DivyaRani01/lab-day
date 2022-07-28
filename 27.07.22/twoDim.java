@@ -21,7 +21,7 @@ class twoDim{
             }
         }
         //calling display method
-        display(rows,cols,arr);
+         display(rows,cols,arr);
         obj.close();                                                    //closing scanner object
 
         }
